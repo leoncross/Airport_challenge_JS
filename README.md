@@ -1,4 +1,4 @@
-# Airport_challenge_JS
+# Airport Challenge in JavaScript
 
 All user stories completed
 
